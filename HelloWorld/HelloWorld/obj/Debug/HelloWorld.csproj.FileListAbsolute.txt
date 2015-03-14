@@ -1,5 +1,0 @@
-D:\GitSource\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-D:\GitSource\Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-D:\GitSource\Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-D:\GitSource\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-D:\GitSource\Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
